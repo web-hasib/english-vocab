@@ -5,6 +5,10 @@
 
 live link: https://b11-a6-by-hasibul.netlify.app/
 
+
+Username can be anything. 
+But the code must be 123456.
+
 ------
 
 
